@@ -9,7 +9,7 @@ class MyDocument extends Document {
     render() {
         return (
             <Html>
-                <title>ALL</title>
+                <title>รวมเว็บไซต์</title>
                 <link rel="shortcut icon" href="../logoAllApp.png" />
                 <Head>
                     <div>
